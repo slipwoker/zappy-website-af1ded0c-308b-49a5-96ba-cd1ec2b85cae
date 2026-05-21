@@ -1,0 +1,76 @@
+# חומרי בניין אונליין — Generative Engine Optimization Map
+
+> A professional building materials supplier targeting contractors, renovators, project managers, and homeowners in Israel. The business focuses on generating leads through WhatsApp and price quote requests rather than direct e-commerce. The brand identity emphasizes professionalism, reliability, and clarity — with a clean modern aesthetic suited to a B2B and B2C audience in the construction and renovation industry. The site is conversion-focused, showcasing selected products from an existing catalog with rich descriptions and clear calls to action.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אספקת חומרי בניין, איטום ושיפוץ לקבלנים, מנהלי פרויקטים ובעלי בתים בישראל. מוצרים מקצועיים, מחירים תחרותיים וקבלת הצעת מחיר מהירה בוואטסאפ.
+
+### קטגוריות מוצרים
+https://example.com/categories
+עיינו במגוון רחב של קטגוריות חומרי בניין: איטום, גמר, צבע, שיפוץ ועוד. כל מה שצריך לפרויקט הבנייה שלכם במקום אחד — מקצועי, נוח ומהיר.
+
+### מוצרים נבחרים
+https://example.com/products
+קטלוג מוצרים נבחרים: חומרי איטום, גמר, צבע ומוצרי בנייה מקצועיים. תיאורים מפורטים, תמונות איכותיות ובקשת הצעת מחיר ישירה — הכל כאן.
+
+### בקשת הצעת מחיר
+https://example.com/quote-request
+שלחו בקשת הצעת מחיר עכשיו וקבלו מענה מקצועי במהירות. אספקת חומרי בניין, שיפוץ ואיטום לקבלנים ובעלי בתים — פשוט, מהיר וללא התחייבות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/quote-request
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חומרי בניין אונליין
+A professional building materials supplier targeting contractors, renovators, project managers, and homeowners in Israel. The business focuses on generating leads through WhatsApp and price quote requests rather than direct e-commerce. The brand identity emphasizes professionalism, reliability, and clarity — with a clean modern aesthetic suited to a B2B and B2C audience in the construction and renovation industry. The site is conversion-focused, showcasing selected products from an existing catalog with rich descriptions and clear calls to action.
+
+## Target Audience
+- קבלנים, שיפוצניקים, מנהלי עבודה, בעלי בתים ואנשים לפני בנייה או שיפוץ
+
+## Industry
+Building Materials
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
