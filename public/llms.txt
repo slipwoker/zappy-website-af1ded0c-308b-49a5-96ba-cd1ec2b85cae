@@ -1,4 +1,4 @@
-# חומרי בניין אונליין — Generative Engine Optimization Map
+# רפאל איתן | חומרי בניין אונליין — Generative Engine Optimization Map
 
 > A professional building materials supplier targeting contractors, renovators, project managers, and homeowners in Israel. The business focuses on generating leads through WhatsApp and price quote requests rather than direct e-commerce. The brand identity emphasizes professionalism, reliability, and clarity — with a clean modern aesthetic suited to a B2B and B2C audience in the construction and renovation industry. The site is conversion-focused, showcasing selected products from an existing catalog with rich descriptions and clear calls to action.
 
@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: rephaelmam@gmail.com
+- Phone: +972546649990
+- Phone (tel): tel:+972546649990
+- Address: שירות בפריסה ארצית, מגדל העמק, 2304955, ישראל
 
 ### Contact form
 - URL: https://example.com/quote-request
@@ -58,7 +61,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About חומרי בניין אונליין
+## About רפאל איתן | חומרי בניין אונליין
 A professional building materials supplier targeting contractors, renovators, project managers, and homeowners in Israel. The business focuses on generating leads through WhatsApp and price quote requests rather than direct e-commerce. The brand identity emphasizes professionalism, reliability, and clarity — with a clean modern aesthetic suited to a B2B and B2C audience in the construction and renovation industry. The site is conversion-focused, showcasing selected products from an existing catalog with rich descriptions and clear calls to action.
 
 ## Target Audience
