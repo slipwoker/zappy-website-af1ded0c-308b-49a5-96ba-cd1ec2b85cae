@@ -43,7 +43,7 @@ Information about WCAG compliance and accessibility features.
 - Email: rephaelmam@gmail.com
 - Phone: +972546649990
 - Phone (tel): tel:+972546649990
-- Address: שירות בפריסה ארצית, מגדל העמק, 2304955, ישראל
+- Address: שירות בפריסה ארצית, מגדל העמק, צפון, 2304955, ישראל
 
 ### Contact form
 - URL: https://example.com/quote-request
